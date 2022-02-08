@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vietnguyen1310
 - 👀 I’m interested in coding, computer science and finance.
-- 🌱 I’m currently coding in Java, C++, C, C#, Python and Go and pursuing CFA program.
+- 🌱 I’m currently coding in Java, C++, C, C#, Python and Go, HTML and CSS, and pursuing CFA program.
 - 💞️ I’m looking to collaborate on software engineering projects and field or fin-tech project and field.
 - 📫 Reach me at vietnguyen1310@gmail.com
 
